@@ -34,7 +34,7 @@ https://github.com/Tannu-2001/tiny-link-backend
 - Analytics dashboard UI
 
 ## Screenshots
-### Tiny Homme
+### Tiny Home
 ![Tiny Home](./screenshots/tinyhome.png)
 ### Tiny Dashboard
 ![Tiny Dashboard](./screenshots/tinydash.png)
