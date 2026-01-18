@@ -32,3 +32,13 @@ https://github.com/Tannu-2001/tiny-link-backend
 ## Future Improvements
 - Authentication UI
 - Analytics dashboard UI
+
+## Screenshots
+### Tiny Homme
+![Tiny Home](./screenshots/tinyhome.png)
+### Tiny Dashboard
+![Tiny Dashboard](./screenshots/tinydash.png)
+### Tiny Status
+![Tint Status](./screenshots/tinystatus.png)
+### Mobile Responsive
+![Mobile Responsive](./screenshots/tinymobileres.png)
